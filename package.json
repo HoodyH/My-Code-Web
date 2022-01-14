@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "desctription": "",
+    "author": "",
+    "license": "MIT",
+    "main": "node/image.js",
+    "dependencies": {
+        "html-to-image": "^1.9.0"
+    }
+}
